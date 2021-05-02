@@ -1,4 +1,4 @@
 {
 	"desc": "At the beginning of your Command phase, at least one of your units is wholly-within each Table quarter. (22\"*30\")",
-	"conditions": [1,3,5]
+	"conditions": ["1","3","5"]
 }
