@@ -1,0 +1,4 @@
+{
+	"description": "At the end of any Battle round, there are more friendly than enemy units wholly-within each Table quarter. (22\"*30\")",
+	"conditions": [-,-,1]
+}
