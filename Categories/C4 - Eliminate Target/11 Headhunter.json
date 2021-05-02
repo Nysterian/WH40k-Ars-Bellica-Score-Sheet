@@ -1,0 +1,4 @@
+{
+	"desc": "Destroy enemy models with the Character keyword. (The destroyed warlord counts double)",
+	"conditions": ["1","3","5"]
+}

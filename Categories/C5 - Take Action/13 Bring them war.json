@@ -1,0 +1,4 @@
+{
+	"desc": "This [b]Action[/b] may be performed by a unit that is wholly-within the enemy deployment zone.",
+	"conditions": ["1","2","4"]
+}

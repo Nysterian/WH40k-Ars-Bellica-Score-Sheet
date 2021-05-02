@@ -1,0 +1,4 @@
+{
+	"desc": "Destroy enemy units with melee attacks.",
+	"conditions": ["2","4","6"]
+}

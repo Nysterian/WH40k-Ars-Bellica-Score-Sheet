@@ -1,0 +1,4 @@
+{
+	"desc": "At the end of any Player turn, you control every Objective.",
+	"conditions": ["-","1","2"]
+}

@@ -1,0 +1,4 @@
+{
+	"desc": "Once you choose this mission, nominate a unit and after the side selection a Objective marker. [b]Action:[/b] The nominated unit must hold this Objective marker.",
+	"conditions": ["2","4","5"]
+}
