@@ -1,4 +1,4 @@
 {
-	"desc": "At the end of any Player turn, you control Objectives that the enemy controlled at the beginning of the Player turn.",
+	"desc": "At the end of any player turn, you control objectives that the enemy controlled at the beginning of the player turn.",
 	"conditions": ["1","3","5"]
 }
