@@ -1,4 +1,4 @@
 {
-	"desc": "One [b]Infantery[/b] unit from your army can start to perform this [b]Action[/b] at the end of your movementphase while it is wholly within your oponents deployment zone. The action ends at the end of your player turn.",
+	"desc": "One [b]Infantery[/b] unit from your army can start to perform this [b]Action[/b] at the end of your movement phase while it is wholly within your opponents deployment zone. The action ends at the end of your player turn.",
 	"conditions": ["1","3","4"]
 }
