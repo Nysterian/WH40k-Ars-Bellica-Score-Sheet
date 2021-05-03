@@ -1,4 +1,4 @@
 {
-	"desc": "Destroy enemy models with 8 or more Wounds. (Models with 16+ W give 2 points)",
+	"desc": "Destroy enemy models with 8 or more wounds. (Models with 16+ W give 2 points)",
 	"conditions": ["2","3","5"]
 }
