@@ -1,0 +1,4 @@
+{
+	"desc": ""One [b]Character[/b] unit from your army can start to perform this [b]Action[/b] at the end of your movement phase while it is wholly within range of an objective. The action ends at the end of your player turn. Each objective can only be used once for this action",
+	"conditions": ["2","3","4"]
+}
