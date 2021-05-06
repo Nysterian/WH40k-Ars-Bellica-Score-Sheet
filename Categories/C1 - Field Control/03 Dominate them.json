@@ -1,4 +1,4 @@
 {
-	"desc": "At the end of any battle round, there are more friendly than enemy units wholly-within each table quarter. (22&#34;&ast;30&#34;)",
+	"desc": "At the end of any battle round, there are more friendly than enemy units wholly-within each table quarter. (22&#34;&#42;30&#34;)",
 	"conditions": ["-","-","1"]
 }
