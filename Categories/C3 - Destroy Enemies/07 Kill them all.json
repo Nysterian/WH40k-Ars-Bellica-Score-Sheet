@@ -1,4 +1,4 @@
 {
-	"desc": "Destroy enemy models. Count all enemy models removed from the game in any way.",
+	"desc": "Destroy enemy models.&#xA;Count all enemy models removed&#xA;from the game in any way.",
 	"conditions": ["25","55","90"]
 }

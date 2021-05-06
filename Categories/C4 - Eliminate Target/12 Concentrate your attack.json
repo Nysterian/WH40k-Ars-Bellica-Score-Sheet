@@ -1,4 +1,4 @@
 {
-	"desc": "Cause enemy models with 3+ wounds characteristic of a multi-model unit to lose wounds. (Except vehicles and monsters)",
+	"desc": "Cause enemy models with 3+ wounds characteristic&#xA;of a multi-model unit to lose wounds.&#xA;(Except vehicles and monsters)",
 	"conditions": ["6","12","18"]
 }

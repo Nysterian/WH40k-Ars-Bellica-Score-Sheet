@@ -1,4 +1,4 @@
 {
-	"desc": "Destroy enemy models with 8 or more wounds. (Models with 16+ W count double)",
+	"desc": "Destroy enemy models with 8 or more wounds.&#xA;(Models with 16+ W count double)",
 	"conditions": ["2","3","5"]
 }

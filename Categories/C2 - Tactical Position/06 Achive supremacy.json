@@ -1,4 +1,4 @@
 {
-	"desc": "At the end of any player turn, control at least 3 objectives.",
+	"desc": "At the end of any player turn,&#xA;control at least 3 objectives.",
 	"conditions": ["1","3","4"]
 }

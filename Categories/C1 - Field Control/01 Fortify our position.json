@@ -1,4 +1,4 @@
 {
-	"desc": "At the end of your player turn, no enemy unit is neither within nor wholly-within your deployment zone.",
+	"desc": "At the end of your player turn,&#xA;no enemy unit is neither within&#xA;nor wholly-within your deployment zone.",
 	"conditions": ["2","3","4"]
 }
