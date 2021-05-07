@@ -1,4 +1,4 @@
 {
-	"desc": "Once you choose this mission, after choosing sides,&#xA;nominate one unit without the [b]Character[/b] keyword and one objective.&#xA;You can start to perfom this [b]Action[/b] at the end of your movement phase,&#xA;as long as the objective is under your control.&#xA;The action is completed at the end of your player turn,&#xA;as long as the nominated unit controls the selected objective.",
+	"desc": "Once you choose this mission, after choosing sides,&#xA;nominate one unit without the [b]Character[/b] keyword and one objective.&#xA;You can start to perform this [b]Action[/b] at the end of your movement phase if the objective is under your control.&#xA;The action is completed at the end of your player turn if the nominated unit controls the selected objective.",
 	"conditions": ["2","4","5"]
 }
